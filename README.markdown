@@ -1,4 +1,7 @@
-== Welcome to Rails
+== Welcome to Ruby on Rails application sample_app from the book of M. Hartl
+All in this application is done again by B. Mihovilovic. (May 2011)
+=============================================================================
+
 
 Rails is a web-application framework that includes everything needed to create
 database-backed web applications according to the Model-View-Control pattern.
